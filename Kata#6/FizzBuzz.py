@@ -1,7 +1,3 @@
-
-
-
-
 def fizzBuzz(n):
     answer = []
 
