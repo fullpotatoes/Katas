@@ -11,11 +11,3 @@ def twoSum(numbers, target):
     return []
 
 print(twoSum(numbers, target))
-
-
-    # return indices des deux numbers
-
-    # target  doit être égal à deux des chiffes de numbers
-
-
-    #retourne [0, 1]
